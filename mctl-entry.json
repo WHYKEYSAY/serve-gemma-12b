@@ -1,0 +1,12 @@
+{
+  "name": "gemma-12b",
+  "backend": "llamacpp",
+  "manager": "direct",
+  "extra_args": [
+    "-ngl",
+    "99",
+    "-fa",
+    "on"
+  ],
+  "note": "Gemma-3-12B (dense)"
+}
