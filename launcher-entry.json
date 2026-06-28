@@ -1,7 +1,6 @@
 {
   "name": "gemma-12b",
   "backend": "llamacpp",
-  "manager": "direct",
   "extra_args": [
     "-ngl",
     "99",
